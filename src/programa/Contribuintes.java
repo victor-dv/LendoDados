@@ -7,7 +7,7 @@ public abstract class Contribuintes {
     public Contribuintes(){
     }
 
-    public Contribuintes(String Nome, double rendaAnual){
+    public Contribuintes(String nome, double rendaAnual){
         this.nome = nome;
         this.rendaAnual = rendaAnual;
     }
